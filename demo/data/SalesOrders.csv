@@ -1,0 +1,4 @@
+order_id,customer_id,sku,qty,unit_price,status,order_date
+5001,1001,A-100,20,45.0,open,2025-08-20
+5002,1002,B-200,5,280.0,closed,2025-08-17
+5003,1003,C-300,100,3.5,open,2025-08-29
