@@ -1,11 +1,11 @@
 # 💼 IT-Consultant Portfolio-Projekt – ERP-Einführung (Case Study)
 
 Dieses Repo zeigt – praxisnah und in **Consulting-Qualität** – die Einführung eines **ERP-Systems (Microsoft Dynamics 365 Business Central)**
-bei einem mittelständischen Maschinenbauunternehmen (*Muster GmbH*). Es ist so strukturiert, dass Recruiter sofort sehen,
-wie ich als **Junior IT-Consultant** vorgehe: **Analyse → Konzept → Proof of Concept → Umsetzung → Test → Go-Live → Lessons Learned**.
+bei einem mittelständischen Technologieunternehmen (*NovaTech Solutions GmbH*).
+So gehe ich als **Junior IT-Consultant** vor: **Analyse → Konzept → Proof of Concept → Umsetzung → Test → Go-Live → Lessons Learned**.
 
 ## 🔎 Kurzüberblick
-- **Kunde:** Muster GmbH (120 MA, Maschinenbau)  
+- **Kunde:** NovaTech Solutions GmbH (120 Mitarbeiter, Technologie)  
 - **Ziel:** Ablösung von Excel/Papier, End-to-End ERP für Einkauf, Lager, Produktion, Vertrieb  
 - **Vorgehen:** Agil (Scrum, 2‑wöchige Sprints, Backlog/Reviews/Retros)  
 - **Ergebnis:** Schnellere Auftragsabwicklung, Echtzeit-Lager, KPI-Transparenz (Power BI)  
@@ -69,42 +69,3 @@ wie ich als **Junior IT-Consultant** vorgehe: **Analyse → Konzept → Proof of
 
 ## ✍️ Autor
 **André Asprion** · [Andre.Asprion@gmx.de](mailto:Andre.Asprion@gmx.de) · [GitHub](https://github.com/AndAsp317)
-
----
-
-## 🚀 GitHub: So erstellst du das Repo (Schritt-für-Schritt)
-
-### Variante A: per Weboberfläche
-1. Gehe zu GitHub → **New Repository** → Name: `IT-Consultant-Portfolio-ERP`
-2. **Public**, *Add README* deaktivieren (wir laden alles gesammelt hoch) → **Create repository**.
-3. Lade die entpackten Dateien dieses Projekts via **Upload files** hoch → **Commit changes**.
-
-### Variante B: per Git (Terminal)
-```bash
-# 1) Lokal entpacken und in den Ordner wechseln
-cd IT-Consultant-Portfolio-ERP
-
-# 2) Git initialisieren
-git init
-git add .
-git commit -m "feat: initial case-study ERP rollout (docs, demo, CI)"
-
-# 3) Remote anlegen und pushen
-git branch -M main
-git remote add origin https://github.com/AndAsp317/IT-Consultant-Portfolio-ERP.git
-git push -u origin main
-```
-
-### Bonus: Issues & Projektboard
-- Erstelle **Issues** aus den User Stories (Label: `story`, `bug`, `risk`).
-- Lege ein **Project Board (Kanban)** an: *To Do → In Progress → Review → Done*.
-- Nutze die **Issue-Templates** aus `.github/ISSUE_TEMPLATE/`.
-
----
-
-## ✅ Was Recruiter hier sehen
-- **Beratungsfähigkeit** (strukturierte Analyse, klare Artefakte)  
-- **IT-Verständnis** (ERP-Module, Datenflüsse, Rollen)  
-- **Lieferfähigkeit** (PoC, Demo-Daten, CI, Repo-Qualität)
-
-Viel Spaß beim Durchklicken! Feedback willkommen.
