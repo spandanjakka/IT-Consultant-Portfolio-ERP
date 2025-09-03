@@ -19,10 +19,6 @@ So gehe ich als **Junior IT-Consultant** vor: **Analyse → Konzept → Proof of
 │  ├─ data/              # CSV-Daten (Kunden, Aufträge, Lager) – für Power BI/Excel
 │  └─ powerbi/           # Anleitung für Demo-Dashboard
 ├─ scripts/              # Hilfsskripte (z. B. CSV-Checks)
-└─ .github/
-   ├─ ISSUE_TEMPLATE/    # Issue-Templates
-   ├─ workflows/         # CI – minimale Strukturprüfung
-   └─ PULL_REQUEST_TEMPLATE.md
 ```
 👉 **Direkt nutzbar**: Du kannst das Repo klonen, die Doku durchgehen und die Demo-Daten in **Power BI** oder **Excel** auswerten.
 
